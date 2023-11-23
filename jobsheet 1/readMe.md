@@ -1,6 +1,7 @@
 # JOBSHEET 1 - DASAR PEMROGRAMAN ESP32 UNTUK PEMROSESAN DATA INPUT/OUTPUT ANALOG DAN DIGITAL
 
-Jobsheet 1 bertujuan untuk memahami dan mengoperasikan GPIO pada ESP32, memahami dan melakukan pengolahan data untuk input/output analog dan digital, dan melakukan optimalisasi pembacaan sensor analog menggunakan metode regresi linear.
+## Abstrak
+Jobsheet ini bertujuan untuk memahami dan mengoperasikan GPIO pada ESP32, memahami dan melakukan pengolahan data untuk input/output analog dan digital, dan melakukan optimalisasi pembacaan sensor analog menggunakan metode regresi linear.
 
 **Sub-job** pada jobsheet ini, antara lain:
 1. GPIO
@@ -8,6 +9,7 @@ Jobsheet 1 bertujuan untuk memahami dan mengoperasikan GPIO pada ESP32, memahami
 3. ADC dan DAC
 4. Regresi Linier
 
+## Alat dan Bahan
 **Alat dan bahan** yang digunakan dalam jobsheet ini, antara lain:
 1) ESP32
 2) Breadboard
