@@ -1,4 +1,4 @@
-#A. GPIO (General Purpose Input-Output)
+# A. GPIO (General Purpose Input-Output)
 
 ## 1. GPIO | LED Blink
 
