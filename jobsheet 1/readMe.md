@@ -15,6 +15,7 @@ Jobsheet ini bertujuan untuk memahami dan mengoperasikan GPIO pada ESP32, memaha
 2) Breadboard
 3) Kabel jumper
 4) Potensiometer 10k Ohm (1)
-5) Sensor Capacitive Soil Moisture
-6) LED (5) dan Push Button (3)
-7) Resistor 330,1K, 10K Ohm (@ 3)
+5) LED (5) dan Push Button (3)
+6) Resistor 330,1K, 10K Ohm (@3)
+7) Sensor Capacitive Soil Moisture
+8) Three-Way Meter
