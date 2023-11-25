@@ -4,6 +4,7 @@
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+
 ![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/05bc96b4-6c4e-4b25-a56e-471421ace2af)
 
 ### b. Source Code
@@ -29,6 +30,7 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/a2237161-5230-42a
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
+
 ![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/05bc96b4-6c4e-4b25-a56e-471421ace2af)
 
 ### b. Source Code
@@ -44,7 +46,8 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/c6ef4a13-0d63-4c7
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
-**Gambarnya bikin di fritzing**
+
+![board-3](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/39793e78-e7ff-4305-83a4-775ce0f7ef80)
 
 ### b. Source Code
 Kode program dapat dilihat <a href="3.%20Tambahkan%201%20LED%20dan%201%20push%20button%20pada%20rangkaian%2C%20blink%20setiap%20500ms/gpio_3/gpio_3.ino">di sini</a>
@@ -59,10 +62,11 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/ac34bc74-ecbb-4e5
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
-**Gambarnya bikin di fritzing**
+
+![board-4](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/918f3bf9-c527-4781-9d29-8f51ffb01928)
 
 ### b. Source Code
-Kode program dapat dilihat <a href="3.%20Tambahkan%201%20LED%20dan%201%20push%20button%20pada%20rangkaian%2C%20blink%20setiap%20500ms/gpio_3/gpio_3.ino">di sini</a>
+Kode program dapat dilihat <a href="4.%20Tambahkan%203%20LED%20dan%201%20push%20button%20pada%20rangkaian/gpio_4.1/gpio_4.1.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Output pada percobaan ini adalah ketika pushbutton ketiga ditekan, maka ketiga lampu LED akan menyala dari kiri ke kanan secara berurutan (running LED). Sedangkan jika pushbutton dilepas, maka ketiga LED akan mati
