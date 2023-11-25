@@ -14,7 +14,7 @@ Kode program dapat dilihat <a href="code/soil_1/soil_1.ino">di sini</a> dan <a h
 Percobaan ini merupakan simulasi pengambilan data dari sensor Capacitive Soil Moisture. Sensor ini berfungsi untuk mengukur tingkat kelembaban tanah. Fungsi utama dari sensor ini adalah untuk memberikan informasi tentang seberapa basah atau kering tanah di suatu area tertentu. Sensor ini mendeteksi kelembaban tanah dengan cara mengukur kapasitansi dielektrik tanah.
 Digunakan juga 3-Way Soil Meter untuk mengukur parameter kelembaban dalam tanah pada kondisi tanah kering, medium, dan basah. Kemudian, kode program yang dijalankan berguna untuk membaca data dari sensor analog pada pin input dan menghitung rata-rata dari beberapa pembacaan yang kemudian dicetak ke Serial Monitor. Proses konversi melibatkan membagi nilai rata-rata dengan jumlah nilai oleh ADC (Analog-to-Digital Converter) sehingga muncul nilai rata-rata.
 
-##### Tanah Tanah
+##### Tanpa Tanah
 
 ![tanpa-tanah](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/86c9655f-2bcb-4199-ba62-7dfdc07f65d8)
 
@@ -37,5 +37,5 @@ Digunakan juga 3-Way Soil Meter untuk mengukur parameter kelembaban dalam tanah 
 ##### Hasil Tabel
 
 ![hasil-tabel](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/472e4abd-4b12-4a80-a694-464f67e0f86c)
-Pada hasil tabel diatas dapat dilihat bahwa nilai pembacaan ADC pada tanah kering > tanah medium > tanah basah
+Pada hasil tabel diatas dapat dilihat bahwa nilai pembacaan ADC pada tanah kering > tanah medium > tanah basah <br>
 Begitupula nilai rata-rata Vs yang didapat pada tanah kering > tanah medium > tanah basah
