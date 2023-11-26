@@ -2,15 +2,15 @@
 
 ## 1. Cek Sensor DHT11
 
-## a. Rangkaian 
+### a. Rangkaian 
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 <img alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/cca91488-7ed5-4895-8eec-67d8496790c8">
 
-## b. Source Code
+### b. Source Code
 Kode program dapat dilihat <a href="1.%20rangkaian/dht11_1/dht11_1.ino">di sini</a>
 
-## c. Hasil dan Pembahasan
+### c. Hasil dan Pembahasan
 Hasil dari percobaan ini adalah ketika mengecek sensor DHT11. Jika sensor berfungsi dengan baik, maka serial monitor akan menampilkan hasil pembacaan suhu dan kelembaban oleh sensor DHT11.
 
 https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/aa9d0008-384a-4d9e-80f7-83f4a9875ae6
@@ -18,15 +18,15 @@ https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/aa9d0008-384a-4d
 
 ## 2. Tugas
 
-## a. Rangkaian
+### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
 
 
-## b. Source Code
+### b. Source Code
 Kode program dapat dilihat <a href="2.%20tugas/dht11_tugas/dht11_tugas.ino">di sini</a>
 
-## c. Hasil dan Pembahasan
+### c. Hasil dan Pembahasan
 Hasil dari tugas ini adalah apabila sensor mendeteksi suhu yang naik maka suhu pada serial monitor juga akan naik.
 Ketika suhu rungan mencapai 30 derajat celcius, maka ESP32 akan menyalakan LED Merah dan buzzer.
 
