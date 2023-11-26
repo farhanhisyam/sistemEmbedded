@@ -40,7 +40,7 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 
 ### b. Source Code
 Pada percobaan ini, kelompok kami sebagai Master (sender) <br>
-Kode program dapat dilihat <a href="2.%20Mengirim%20Pesan%20yang%20Berbeda%20Ke%20Beberapa%20Board%20ESP32/4_ESP_collab_beda_pesan">di sini</a>
+Kode program dapat dilihat <a href="2.%20Mengirim%20Pesan%20yang%20Berbeda%20Ke%20Beberapa%20Board%20ESP32/4_ESP_collab_beda_pesan/4_ESP_collab_beda_pesan.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Pada percobaan ini konfigurasinya masih sama dengan sebelumnya, yaitu 1 ESP bertindak sebagai Master dan 3 ESP bertindak sebagai Slave. Yang membedakan adalah data
