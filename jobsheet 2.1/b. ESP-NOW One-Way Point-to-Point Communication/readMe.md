@@ -8,6 +8,7 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 ![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/d66c1441-4e2b-402e-9b6a-a2fff986e1ef)
 
 ### b. Source Code
+Pada percobaan ini, kelompok kami sebagai receiver <br>
 Kode program dapat dilihat <a href="ESP-NOW_One-Way_Point-to-Point_Communication/ESP-NOW_One-Way_Point-to-Point_Communication.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
@@ -218,8 +219,16 @@ Hasilnya adalah sebagai berikut
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
+![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/d66c1441-4e2b-402e-9b6a-a2fff986e1ef)
 
 ### b. Source Code
+Pada percobaan ini, kelompok kami sebagai receiver <br>
 Kode program dapat dilihat <a href="ESP-NOW_One-Way_Point-to-Point_Communication/ESP-NOW_One-Way_Point-to-Point_Communication.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
+Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. Pertama, ada 3 kondisi jarak transmisi yaitu 1 meter, 2 meter, dan 3 meter. Kemudian, pada masing-masing jarak diberikan 3 kondisi ketinggian yaitu ground, 30cm, dan 1 meter diatas permukaan tanah. Hasil pemantauan jumlah data yang berhasil terkirim dan diterima adalah sebagai berikut
+
+![hasil-tabel](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/2c8a7c40-5940-488a-936d-28a75955d725)
+*Note: Dokumentasi percobaan dapat dilihat pada folder "dokumentasi"*
+
+Dari hasil tabel diatas dapat dilihat bahwa pengiriman berjalan dengan baik dalam segala kondisi. Persentase packet loss adalah 0% dengan keberhasilan pengiriman 100%. 
