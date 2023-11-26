@@ -25,3 +25,6 @@ Alat dan bahan yang digunakan dalam jobsheet ini, antara lain:
   5. LED (5) dan Push Button (3)
   6. Servo
   7. Resistor 330, 1K, 10K Ohm (@3)
+
+> [!NOTE]  
+> *Buka folder-folder subjob untuk melihat laporan percobaan*
