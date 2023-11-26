@@ -7,7 +7,7 @@ Jika salah satu perangkat ESP32 mati atau diatur ulang, koneksi otomatis dipulih
 Jobsheet ini bertujuan untuk memahami konsep topologi jaringan sensor nirkabel berbasis ESPNOW, melakukan konfigurasi berbagai topologi ESP-NOW, dan menganalisis dan menentukan topologi ESP-NOW,sesuai dengan
 studi kasus proyek.
 
-*Sub-job* pada jobsheet ini antara lain:
+**Sub-job** pada jobsheet ini, antara lain:
 1. Memperoleh MAC Address ESP32 Receiver
 2. ESP-NOW One-Way Point-to-Point Communication
 3. One-Way, One-to-Many Communication
@@ -15,7 +15,7 @@ studi kasus proyek.
 5. Two-Way Communication
 
 ## Alat dan Bahan
-*Alat dan Bahan* dalam praktikum ini antara lain:
+**Alat dan Bahan** yang digunakan dalam praktikum ini, antara lain:
 1) ESP32
 2) Breadboard
 3) Kabel jumper
