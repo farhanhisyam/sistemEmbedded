@@ -25,7 +25,6 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 ![board-5-2](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f1ceb29a-9b82-4e35-9525-629cdad1b36e)
 
 ### b. Source Code
-Pada percobaan ini, kelompok kami sebagai sender <br>
 Kode program dapat dilihat <a href="2/2_way_comm_2/2_way_comm_2.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
