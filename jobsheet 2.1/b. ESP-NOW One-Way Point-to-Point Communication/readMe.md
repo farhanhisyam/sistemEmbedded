@@ -228,7 +228,19 @@ Kode program dapat dilihat <a href="ESP-NOW_One-Way_Point-to-Point_Communication
 ### c. Hasil dan Pembahasan
 Pada percobaan ini, pengiriman Point-to-Point dilakukan dalam beberapa kondisi. Pertama, ada 3 kondisi jarak transmisi yaitu 1 meter, 2 meter, dan 3 meter. Kemudian, pada masing-masing jarak diberikan 3 kondisi ketinggian yaitu ground, 30cm, dan 1 meter diatas permukaan tanah. Hasil pemantauan jumlah data yang berhasil terkirim dan diterima adalah sebagai berikut
 
+##### Hasil Kirim
+
+https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7c8f8ee8-2fbf-4037-9a62-cff7d6fa6b30
+
+
+##### Hasil Terima
+
+https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/11227fda-bc07-43f6-a893-9f8620bbc431
+
+
+##### Hasil Tabel
+
 ![hasil-tabel](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/2c8a7c40-5940-488a-936d-28a75955d725)
-*Note: Dokumentasi percobaan dapat dilihat pada folder "dokumentasi"*
+>*Note: Dokumentasi percobaan dapat dilihat pada folder "dokumentasi"*
 
 Dari hasil tabel diatas dapat dilihat bahwa pengiriman berjalan dengan baik dalam segala kondisi. Persentase packet loss adalah 0% dengan keberhasilan pengiriman 100%. 
