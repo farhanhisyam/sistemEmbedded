@@ -31,3 +31,5 @@ Hasil dari tugas ini adalah apabila sensor mendeteksi suhu yang naik maka suhu p
 Ketika suhu rungan mencapai 30 derajat celcius, maka ESP32 akan menyalakan LED Merah dan buzzer.
 
 https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/946180c6-4e86-43db-85a1-939a84603e63
+
+https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/37e06e08-e8ca-4170-a820-6475894d1cdb
