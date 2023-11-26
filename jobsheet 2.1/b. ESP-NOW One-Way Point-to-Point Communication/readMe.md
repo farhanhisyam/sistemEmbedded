@@ -1,6 +1,6 @@
-# B. ESP-NOW
+# B. ESP-NOW | One-Way Point-to-Point Communication
 
-## 1. One-Way Point-to-Point Communication
+## 1. Basic
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
