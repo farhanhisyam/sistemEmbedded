@@ -2,7 +2,7 @@
 #include <WiFi.h>
 // Struktur pesan sender dan receiver harus sama
 typedef struct struct_message {
- char a[32];
+ char a[236];
  int b;
  float c;
  bool d;
