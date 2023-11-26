@@ -24,3 +24,4 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/d01441c7-f31b-408
 
 https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/98694786-d8c7-4975-9957-7ce9b5ddd5f1
 
+Dapat dilihat bahwa receiver mendapatkan 3 buah data dari 3 sender, dengan memperhatikan MAC Address pengirim berjumlah 3 buah
