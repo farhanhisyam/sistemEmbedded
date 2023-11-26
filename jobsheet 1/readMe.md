@@ -24,3 +24,6 @@ yang tidak ada di ESP8266.</p>
 6) Resistor 330,1K, 10K Ohm (@3)
 7) Sensor Capacitive Soil Moisture
 8) Three-Way Meter
+
+> [!NOTE]  
+> *Buka folder-folder subjob untuk melihat laporan percobaan*
