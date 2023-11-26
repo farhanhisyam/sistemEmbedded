@@ -32,7 +32,7 @@ Output pada percobaan ini adalah LED akan menyala ketika sensor disentuh, dan LE
 https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/2ec4e8d4-52c4-451c-8abe-eeec59090fe5
 
 
-## 3. LED menyala ketika sensor disentuh
+## 3. LED menyala blink ketika sensor disentuh
 
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
