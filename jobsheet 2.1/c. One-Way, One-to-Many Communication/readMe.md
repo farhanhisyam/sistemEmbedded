@@ -14,7 +14,7 @@ Kode program dapat dilihat <a href="1.%20Mengirim%20Pesan%20yang%20Sama%20Ke%20B
 ### c. Hasil dan Pembahasan
 Pada percobaan ini menggunakan 4 buah ESP32. Sebuah ESP akan menjadi Master (sender) dan 3 ESP lainnya menjadi Slave (receiver).
 Master bertindak sebagai pengendali utama yang menginisiasi dan mengatur komunikasi, sementara 3 perangkat slave bertugas menerima instruksi atau data yang sama yang dikirimkan oleh master.
-Data yang dikirimkan oleh master kepada slave adalah data yang sama sehingga masing-masing slave akan mendapatkan data yang sama satu sama lain.
+Pertama-tama, master memasukkan terlebih dahulu MAC Address dari masing-masing ESP yang menjadi slave. Kemudian master mengirimkan data yang sama kepada masing-masing slave.
 
 ##### Master
 
