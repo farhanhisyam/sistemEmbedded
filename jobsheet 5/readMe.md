@@ -21,3 +21,6 @@ Sub-job pada jobsheet ini, antara lain:
 
 Alat dan bahan yang digunakan dalam jobsheet ini, antara lain:
   1. Perangkat terpasang Node-Red
+
+> [!NOTE]  
+> *Buka folder-folder subjob untuk melihat laporan percobaan*
