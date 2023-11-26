@@ -22,3 +22,6 @@ studi kasus proyek.</p>
 3) Kabel jumper
 4) Resistor 10K Ohm
 5) Sensor DHT11
+
+> [!NOTE]  
+> *Buka folder-folder subjob untuk melihat laporan percobaan*
