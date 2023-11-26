@@ -1,0 +1,23 @@
+# JOBSHEET 2.1 - JARINGAN SENSOR NIRKABEL MENGGUNAKAN ESP-NOW
+
+## Abstrak
+ESP-NOW adalah protokol komunikasi tanpa Wi-Fi yang dikembangkan oleh Espressif untuk ESP32. Protokol ini memungkinkan perangkat saling berkomunikasi pada frekuensi 2.4GHz 
+dengan konfigurasi awal menggunakan alamat MAC. Setelah terpasang, jaringan peer-to-peer terbentuk, memungkinkan koneksi tetap ada tanpa perlu melakukan handshaking ulang. 
+Jika salah satu perangkat ESP32 mati atau diatur ulang, koneksi otomatis dipulihkan saat restart ke perangkat pasangannya yang telah ditentukan alamatnya.
+Jobsheet ini bertujuan untuk memahami konsep topologi jaringan sensor nirkabel berbasis ESPNOW, melakukan konfigurasi berbagai topologi ESP-NOW, dan menganalisis dan menentukan topologi ESP-NOW,sesuai dengan
+studi kasus proyek.
+
+*Sub-job* pada jobsheet ini antara lain:
+1. Memperoleh MAC Address ESP32 Receiver
+2. ESP-NOW One-Way Point-to-Point Communication
+3. One-Way, One-to-Many Communication
+4. One-Way, Many-to-One Communication
+5. Two-Way Communication
+
+## Alat dan Bahan
+*Alat dan Bahan* dalam praktikum ini antara lain:
+1) ESP32
+2) Breadboard
+3) Kabel jumper
+4) Resistor 10K Ohm
+5) Sensor DHT11
