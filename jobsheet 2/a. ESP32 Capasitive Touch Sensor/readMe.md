@@ -5,7 +5,7 @@
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237)
+<img width="350px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237">
 
 ### b. Source Code
 Kode program dapat dilihat <a href="1.%20Touch%201/Capacitive_Touch_Sensor/Capacitive_Touch_Sensor.ino">di sini</a>
@@ -21,7 +21,7 @@ https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/f50860c5-eaa7-4c
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237)
+<img width="350px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237">
 
 ### b. Source Code
 Kode program dapat dilihat <a href="2.%20LED%20menyala%20ketika%20sensor%20disentuh/Capacitive_Touch_Sensor_2/Capacitive_Touch_Sensor_2.ino">di sini</a>
@@ -37,7 +37,7 @@ https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/2ec4e8d4-52c4-45
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237)
+<img width="350px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237">
 
 ### b. Source Code
 Kode program dapat dilihat <a href="3.%20ketika%20sensor%20disentuh%2C%20LED%20menyala%20Blink/Capacitive_Touch_Sensor_3/Capacitive_Touch_Sensor_3.ino">di sini</a>
@@ -53,7 +53,8 @@ https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/c7892d65-705d-41
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![image](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237)
+<img width="350px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6b5b090a-8ef3-4759-aeb3-52d7d428f237">
+
 
 ### b. Source Code
 Kode program dapat dilihat <a href="4.%20angka%20yang%20akan%20bertambah%20setiap%20kali%20sensor%20disentuh/Capacitive_Touch_Sensor_4/Capacitive_Touch_Sensor_4.ino">di sini</a>
