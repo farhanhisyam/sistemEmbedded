@@ -14,5 +14,8 @@ Kode program dapat dilihat <a href="https://github.com/iamanisaamalia/sistemembe
 ### c. Hasil dan Pembahasan
 ESP akan melakukan scanning dan memunculkan hasilnya pada serial monitor jaringan WiFi beserta kekuatan sinyal yang didapat. Jika tidak ada jaringan maka akan tertulis "No Networks Found". Scanning akan diulang setiap 5 detik karena terdapat delay(5000) dan lebih baik tidak dilakukan terlalu cepat (spam).
 
-
 https://github.com/iamanisaamalia/sistemembedded/assets/147674408/90166337-83b0-44d6-b078-5228801bddc4
+
+### d. Flowchart
+
+![flow-3a](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/6603d3db-2392-4656-9ed4-d553c5f49401)
