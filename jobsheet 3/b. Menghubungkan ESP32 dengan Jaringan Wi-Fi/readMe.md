@@ -21,8 +21,7 @@ https://github.com/iamanisaamalia/sistemembedded/assets/147674408/47182e9c-6445-
 
 https://github.com/iamanisaamalia/sistemembedded/assets/147674408/42c0c6ab-56a9-4b84-ac21-a50b06ea3d90
 
-
-![hasil-2-3](https://github.com/iamanisaamalia/sistemembedded/assets/147674408/a751ad59-f3cf-47c3-a82c-c57dc85b13fb)
+<img width="400px" alt="hasil-2-3" src="https://github.com/iamanisaamalia/sistemembedded/assets/147674408/a751ad59-f3cf-47c3-a82c-c57dc85b13fb">
 
 
 ### d. Flowchart
