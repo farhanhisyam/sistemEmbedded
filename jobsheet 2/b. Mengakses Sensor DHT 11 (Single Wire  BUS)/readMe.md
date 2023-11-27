@@ -21,6 +21,7 @@ https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/aa9d0008-384a-4d
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
+![board-2](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/14779bf1-007e-428e-b901-ab4477c5802c)
 
 
 ### b. Source Code
