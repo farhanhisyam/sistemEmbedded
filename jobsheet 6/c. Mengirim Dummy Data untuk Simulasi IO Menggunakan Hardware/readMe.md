@@ -16,7 +16,7 @@
 
 ### b. Hasil dan Pembahasan
 Pada percobaan ke 3 yaitu percobaan Mengirim Dummy Data untuk Simulasi I/O Menggunakan Hardware hal pertama yang dilakukan adalah mengkonfigurasi dan mengimplementasi Mqtt pada hardware, kemudian melanjutkan ke mengirim data dummy melalui MQTT, kemudian memulai interaksi dengan topik MQTT dan akan divalidasi sebelum klik tombol "Subscribe"
-Selanjutnya Klik tombol “Subscribe” untuk mengetahui data yang dikirim dapat diterima kembali oleh Clients. Kemudian klik tombol Publish. Hasil yang ditampilkan adalah {"temp":26} dari topic livingroo/snsors.
+Selanjutnya Klik tombol “Subscribe” untuk mengetahui data yang dikirim dapat diterima kembali oleh Clients. Kemudian klik tombol Publish. Hasil yang ditampilkan adalah {"temp":26} dari data dummy topic livingroom/sensors.
 
 ![hasil-3](https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/7954a14e-5d19-408a-8569-70b91b3ae4f0)
 
