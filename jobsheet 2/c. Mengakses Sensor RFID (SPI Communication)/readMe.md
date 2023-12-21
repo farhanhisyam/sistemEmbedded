@@ -2,7 +2,10 @@
 
 ## 1. Cek RFID
 
-### a. Rangkaian 
+### a. Rangkaian
+
+Rangkaian pada percobaan ini adlaah sebagai berikut
+
 <img alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/74a26b36-91ab-4a93-8a4d-af319da6e011">
 
 ### b. Source Code
@@ -19,6 +22,7 @@ https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/4cc46281-a81f-41
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
+<img width ="600px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f5c2470d-6560-4210-a124-6fd448cab4d5">
 
 
 ### b. Source Code
