@@ -3,7 +3,7 @@
 
 // REPLACE WITH YOUR ESP RECEIVER'S MAC ADDRESS
 uint8_t broadcastAddress1[] = {0xC8, 0xF0, 0x9E, 0xF4, 0x32, 0x7C};
-uint8_t broadcastAddress2[] = {0xC8, 0xF0, 0x9E, 0xF4, 0x32, 0x7C};
+uint8_t broadcastAddress2[] = {0xC8, 0xF0, 0x9E, 0xF4, 0x4D, 0xD0};
 uint8_t broadcastAddress3[] = {0xC8, 0xF0, 0x9E, 0xF5, 0x3B, 0xAC};
 
 typedef struct test_struct1 {
@@ -12,13 +12,12 @@ typedef struct test_struct1 {
 } test_struct1;
 
 typedef struct test_struct2 {
-  int x;
-  int y;
+  float a;
+  float b;
 } test_struct2;
 
 typedef struct test_struct3 {
-  int x;
-  int y;
+  char message[20];
 } test_struct3;
 
 test_struct1 data1;
@@ -79,11 +78,10 @@ void loop() {
   data1.x = random(0, 20);
   data1.y = random(0, 20);
 
-  data2.x = random(0, 20);
-  data2.y = random(0, 20);
+  data2.a = random(0.0, 1.0);
+  data2.b = random(0.0, 1.0);
 
-  data3.x = random(0, 20);
-  data3.y = random(0, 20);
+  snprintf(data3.message, sizeof(data3.message), "Hello %d", random(1, 10));
 
   // Send data to each receiver
   esp_err_t result1 = esp_now_send(broadcastAddress1, (uint8_t *)&data1, sizeof(test_struct1));
