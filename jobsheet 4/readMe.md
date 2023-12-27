@@ -23,7 +23,6 @@ monitoring dan kendali melalui Platform IoT Node-Red.</p>
 2. Transmisi Data Menggunakan Protokol HTTP
 3. Transmisi Data Menggunakan Protokol MQTT
 4. Akuisi Data dan Kendali Perangkat IoT Menggunakan Protokol MQTT
-5. Pertanyaan dan Tugas
 
 ## Alat dan Bahan
 **Alat dan Bahan** yang digunakan dalam praktikum ini, antara lain:
