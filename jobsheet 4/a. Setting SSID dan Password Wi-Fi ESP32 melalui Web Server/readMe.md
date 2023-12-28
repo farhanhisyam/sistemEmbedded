@@ -26,3 +26,6 @@ Berhasil terhubung ke jaringan WiFi
 ESP akan menampilkan daftar SSID WiFi yang tersedia. Kemudian, masukkan IP Address yang ditampilkan pada serial monitor pada browser dan isikan SSID dan Password yang sesuai pada form yang
 disediakan. Hasil akhirnya adalah ESP akan terhubung pada jaringan tersebut, yaitu jaringan WiFi dengan SSID "alfingay" dengan menampilkan pesan "Connected to alfingay successfully".
 
+### d. Flowchart
+
+![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/ebb3bb7b-3684-4e29-a075-c8693ebf5b84)
