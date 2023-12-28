@@ -30,6 +30,9 @@ Hasil percobaan dapat dilihat pada Serial Monitor Arduino, Debug Node-Red, dan j
 
 ### d. Flowchart
 
+![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/33b622a6-0511-49e1-bb87-69b84b2d794c)
+
+
 ## 2. Metode POST
 
 ### a. Rangkaian
@@ -57,3 +60,5 @@ Setelah program berhasil diupload, output yang ditampilkan adalah sebagai beriku
   ![post-dashboard](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/836f24ea-59c5-40e4-aa69-5c15bf3cbfce)
 
 ### d. Flowchart
+
+![post-flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/925c6292-663c-4292-aa8e-800e24f08647)
