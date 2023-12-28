@@ -27,3 +27,4 @@ Setelah program berhasil diupload, data dummy seperti dev_id, level, rainfall, d
 
 ### d. Flowchart
 
+![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/65e55323-406b-41c5-8620-128199eaa535)
