@@ -32,6 +32,9 @@ LED dihubungkan pada pin D2 yang kemudian dapat diatur nyala atau padam dengan m
 
 ### d. Flowchart
 
+![flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/9c8e1c30-27cc-4db3-93d7-abb49d858954)
+
+
 ## 2. Melalui Dashboard Adafruit.io
 
 ### a. Rangkaian
@@ -63,3 +66,5 @@ IO KEY dapat dilihat pada dasbor Adafruit yang bergambar kunci berwarna kuning. 
   https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/e52c84a5-9fe7-42ca-aae9-acdff57bfc79
 
 ### d. Flowchart
+
+![aio-flow](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7f974f8e-16d7-42b4-8c89-13cedbd38990)
