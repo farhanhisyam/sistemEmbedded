@@ -241,6 +241,6 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/11227fda-bc07-43f
 ##### Hasil Tabel
 
 ![hasil-tabel](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/2c8a7c40-5940-488a-936d-28a75955d725)
->*Note: Dokumentasi percobaan dapat dilihat pada folder "dokumentasi"*
+> *Note: Dokumentasi percobaan dapat dilihat pada folder <a href="dokumentasi">dokumentasi</a>*
 
 Dari hasil tabel diatas dapat dilihat bahwa pengiriman berjalan dengan baik dalam segala kondisi. Persentase packet loss adalah 0% dengan keberhasilan pengiriman 100%. 
