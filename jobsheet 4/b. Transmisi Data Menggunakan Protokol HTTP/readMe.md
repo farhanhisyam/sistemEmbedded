@@ -8,7 +8,10 @@ Rangkaian pada percobaan ini adalah sebagai berikut
 ![rangkaian](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/f56bbb5b-d7e8-4096-8fe4-532f7e4356a0)
 
 ### b. Source Code
-Kode program dapat dilihat <a href="4b_http/4b_http.ino">di sini</a>
+
+Kode program json `Multi-Protocol IoT` dapat dilihat <a href="../program.json">di sini</a>
+
+Kode program `HTTP GET` dapat dilihat <a href="4b_http/4b_http.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Pada percobaan ini, langkah pertama yang dilakukan adalah membuat database `banjir_db` dan diisi dengan tabel `smartwater`. Struktur dalam tabel mengikuti panduan jobsheet.
