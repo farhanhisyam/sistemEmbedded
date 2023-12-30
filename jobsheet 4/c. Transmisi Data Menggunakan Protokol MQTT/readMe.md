@@ -9,7 +9,7 @@ Kode program json `Multi-Protocol IoT` dapat dilihat <a href="../program.json">d
 
 ### b. Source Code
 
-Kode program `Protokol MQTT` dapat dilihat <a href="4c_mqtt/4c_mqtt.ino">di sini</a>
+Kode program dapat dilihat <a href="4c_mqtt/4c_mqtt.ino">di sini</a>
 
 ### c. Hasil dan Pembahasan
 Pada percobaan ini, protokol yang digunakan adalah protokol MQTT. Server broker yang digunakan adalah EMQX. 
