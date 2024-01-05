@@ -13,7 +13,7 @@ Rangkaian pada percobaan kali ini adalah sebagai berikut.
 
 ![hasil-2-1](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7ebd2df1-50a5-4200-868f-74d1b9098186)
 
-Output yang dihasilkan adalah Data: "Hello World"
+Output yang dihasilkan adalah `Data: "Hello World"`.
 
 ## 2. Parsing Data JSON
 
@@ -26,7 +26,7 @@ Rangkaian pada percobaan kali ini adalah sebagai berikut.
 
 ![hasil-2-2](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/fb4fe466-8159-43a7-b778-58ca11706d3c)
 
-Output yang dihasilkan adalah 3 data, yaitu temp, humi, dan light yang ditampilkan dalam 3 log berbeda.
+Output yang dihasilkan adalah 3 data, yaitu `temp`, `humi`, dan `light` yang ditampilkan dalam 3 log berbeda.
 
 ## 3. HTTP Response
 
@@ -36,6 +36,8 @@ Rangkaian pada percobaan kali ini adalah sebagai berikut.
 ![langkah-2-3](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/1f264173-f893-4ed7-b99e-d1b177c221a6)
 
 ### b. Hasil dan Pembahasan
+
+Output yang dihasilkan adalah <mark>OK Response</mark> dengan `response: 200 OK` dan `status: 1`, sedangkan <mark>Bad Response</mark> dengan `response: 400 Bad Request` dan `status: 0`.
 
 #### OK Response
 
