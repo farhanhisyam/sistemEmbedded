@@ -4,14 +4,12 @@
   1. Buka browser Google Chrome yang terinstall pada Windows.
   2. Install ekstensi MQTTbox untuk Google Chrome.
   3. Setelah itu, buka MQTTbox, klik Create Clients. Setelah itu, konfigurasikan MQTTbox seperti Gambar 6.9. Sesuiakan IP Address Host dengan IP Address MQTT Server pada VM Ubuntu. Untuk mengetahui alamat IP, pada Terminal, ketikkan perintah ifconfig.
-<img width="369" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/6d53e5cc-3ed0-4328-853c-4453f3623f42">
-
-  4. Setelah itu, klik Save. Kemudian konfigurasikan topic, QoS, Payload Type, dan Payload seperti Gambar 6.10.
-<img width="274" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/29afb41d-fe8b-402a-bf43-70dad9fe6bb2">
-
-  5. Kemudian, pada terminal Ubuntu, ketikkan perintah sudo ufw allow 1883 untuk membuka port 1883 agar tidak di-block Firewall.
-  6. Untuk mencoba publish/mengirim data, klik tombol Publish. Sebelumnya klik tombol Subscribe untuk mengetahui data yang dikirim dapat diterima kembali oleh Clients.
-  7. Dokumentasikan hasilnya.
+     <img alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/6d53e5cc-3ed0-4328-853c-4453f3623f42">
+  5. Setelah itu, klik Save. Kemudian konfigurasikan topic, QoS, Payload Type, dan Payload seperti Gambar 6.10.
+     <img alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/29afb41d-fe8b-402a-bf43-70dad9fe6bb2">
+  7. Kemudian, pada terminal Ubuntu, ketikkan perintah sudo ufw allow 1883 untuk membuka port 1883 agar tidak di-block Firewall.
+  8. Untuk mencoba publish/mengirim data, klik tombol Publish. Sebelumnya klik tombol Subscribe untuk mengetahui data yang dikirim dapat diterima kembali oleh Clients.
+  9. Dokumentasikan hasilnya.
 
 
 ### b. Hasil dan Pembahasan
