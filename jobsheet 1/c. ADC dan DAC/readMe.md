@@ -23,7 +23,7 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/a596a4fa-97c4-45c
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![board-2](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/82d56248-c94e-44be-bc76-d5f626f477ca)
+<img width="650px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/82d56248-c94e-44be-bc76-d5f626f477ca">
 
 ### b. Source Code
 Kode program dapat dilihat <a href="2.%20tugas/adc_2/adc_2.ino">di sini</a>
