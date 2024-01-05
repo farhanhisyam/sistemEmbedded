@@ -16,31 +16,32 @@ Digunakan juga 3-Way Meter untuk mengukur parameter kelembaban dalam tanah pada 
 
 ##### Tanpa Tanah
 
-![tanpa-tanah](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/86c9655f-2bcb-4199-ba62-7dfdc07f65d8)
+<img width="600px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/86c9655f-2bcb-4199-ba62-7dfdc07f65d8">
 <br>
-<br>
+
 
 ##### Tanah Kering
 
-![tanah-kering](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/311e5c70-8215-4601-aa71-cdf693492ea5)
+<img width="600px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/311e5c70-8215-4601-aa71-cdf693492ea5">
 <br>
-<br>
+
 
 ##### Tanah Medium
 
-![tanah-medium](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7d0e1e15-7469-4d17-8fe6-f787a3a8c6f7)
+<img width="600px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/7d0e1e15-7469-4d17-8fe6-f787a3a8c6f7">
 <br>
-<br>
+
 
 ##### Tanah Basah
 
-![tanah-basah](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/c32eec94-02bb-4e84-94cb-99262e31fc7c)
+<img width="600px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/c32eec94-02bb-4e84-94cb-99262e31fc7c">
 <br>
-<br>
+
 
 ##### Hasil Tabel
 
-![hasil-tabel](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/472e4abd-4b12-4a80-a694-464f67e0f86c)
-Pada hasil tabel diatas dapat dilihat bahwa nilai pembacaan ADC pada tanah kering > tanah medium > tanah basah <br>
-Begitupula nilai rata-rata Vs yang didapat pada tanah kering > tanah medium > tanah basah <br>
-Sebaliknya, nilai pembacaan 3-Way Meter menunjukkan tanah kering < tanah medium < tanah basah
+<img width="600px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/472e4abd-4b12-4a80-a694-464f67e0f86c">
+
+Pada hasil tabel diatas dapat dilihat bahwa nilai pembacaan ADC pada `tanah kering > tanah medium > tanah basah` <br>
+Begitupula nilai rata-rata Vs yang didapat pada `tanah kering > tanah medium > tanah basah` <br>
+Sebaliknya, nilai pembacaan 3-Way Meter menunjukkan `tanah kering < tanah medium < tanah basah`.
