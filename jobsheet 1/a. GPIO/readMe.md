@@ -63,7 +63,7 @@ https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/ac34bc74-ecbb-4e5
 ### a. Rangkaian
 Rangkaian pada percobaan ini adalah sebagai berikut
 
-![board-4](https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/918f3bf9-c527-4781-9d29-8f51ffb01928)
+<img width="650px" src="https://github.com/farhanhisyam/sistemEmbedded/assets/94108385/918f3bf9-c527-4781-9d29-8f51ffb01928">
 
 ### b. Source Code
 Kode program dapat dilihat <a href="4.%20Tambahkan%203%20LED%20dan%201%20push%20button%20pada%20rangkaian/gpio_4.1/gpio_4.1.ino">di sini</a>
