@@ -2,19 +2,24 @@
 
 ### a. Langkah Kerja
   1. Buatlah flow program seperti pada Gambar 6.5.
+     
       ![langkah-2](https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/be037b6b-6edd-4c5f-b19a-c4162c5590b6)
 
   2. Flow pada Gambar 6.5 merupakan pengembangan dari Gambar 6.1 dengan
 menambahkan JSON Parser dan Parser Function Node.
+
   3. Setelah flow program dibuat, konfigurasikan Temperature Node seperti
 Gambar 6.6.
-<img width="400" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/d49d2464-04fe-4663-b851-f1d320c41ee9">
+
+      <img width="400" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/d49d2464-04fe-4663-b851-f1d320c41ee9">
 
   4. Kemudian konfigurasi JSON Parser Node seperti pada Gambar 6.7.
-<img width="400" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/28260f7f-28f0-496d-8711-0884ad738bdf">
+     
+      <img width="400" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/28260f7f-28f0-496d-8711-0884ad738bdf">
 
   5. Setelah itu, konfigurasi pula Parser Function Node seperti Gambar 6.8, agar data JSON dapat dipisahkan dan diambil yang diperlukan saja.
-<img width="400" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/2977bab6-2abd-4bed-98c0-2ae8dd7a2ecd">
+     
+      <img width="400" alt="image" src="https://github.com/delimaayup/jobsheetEmbedded/assets/151798889/2977bab6-2abd-4bed-98c0-2ae8dd7a2ecd">
 
   6. Deploy flow program, kemudian dokumentasikan hasilnya.
 
